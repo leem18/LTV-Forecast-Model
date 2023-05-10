@@ -1,6 +1,7 @@
 # LTV-Forecast-Model
 
 [Project Background]
+The information and codes are only partially revealed through here.
 This project forecasted the first and second repurchase rate of three different brands: the oldest brand W and comparatively new brands O and H. With the forecasted repurchase rate of each cohort, we computed the predicted Customer Life Time Value(LTV). We first grouped the customers with the same first purchase month into monthly cohorts. We, then, set 720 days (about 2 years) as a maximum period of retention so that the customers without repurchase in 720 days are regarded to be left. Also, we had two different order types: one-time order and subscription order. With these, we set four different order dynamics: onetime-onetime, onetime-subscription, subscription-subcription, and subscription-onetime. Eventually, this project forecasted the repurchase rate of three different brands in four different order dynamics. The cohorts whose first purchase had passed 720 days are put into training set. Implementing the curve-fitting method, we gradually let the cohorts under 720 days follow the tendency of the training data set. 
 
 Brands:
