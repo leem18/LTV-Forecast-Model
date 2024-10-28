@@ -22,7 +22,7 @@ The project focuses on forecasting the repurchase rates across these four order 
 
 - **W** (Established brand)
 - **O** (Newer brand)
-- **H** (Newer brand)
+- **H** (Newest brand)
 
 ### Order Types
 
