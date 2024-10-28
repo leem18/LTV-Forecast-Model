@@ -54,5 +54,7 @@ Through this approach, we refined the curve-fitting model to provide a more accu
 
 ## Results
 
+![Alt text](images/original.png)
+
 With these revisions, our model achieved an **LTV prediction accuracy of up to 92%** based on anticipated repurchase rates. This high-accuracy forecast was presented to C-level executives, providing valuable insights for future strategic decision-making.
 
